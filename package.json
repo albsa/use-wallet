@@ -1,7 +1,7 @@
 {
-  "name": "use-wallet",
-  "version": "0.13.5",
-  "author": "Aragon Association <legal@aragon.org>",
+  "name": "@albs1/use-wallet",
+  "version": "0.13.6-1",
+  "author": "Albs1",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
